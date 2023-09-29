@@ -1,0 +1,30 @@
+.dashboard-title {
+    font-weight: 500;
+}
+
+a, .footer-text {
+    font-weight: 100; 
+    font-size: small; 
+}
+
+.card-value {
+    font-weight: 200;
+    font-size: 22px;
+}
+
+.fa-angle-up {
+    margin-right: 5px !important;
+}
+
+.sidenav-logo {
+    padding-top: 18px;
+}
+
+.sidenav .logo-container {
+    padding: 0 16px;
+    height: 64px;
+    line-height: 64px;
+    font-size: 24px;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+    box-sizing: content-box;
+}
